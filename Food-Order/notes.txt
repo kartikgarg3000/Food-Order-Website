@@ -1,0 +1,15 @@
+make folder (index.html),(css),(image)-pixabay.com
+write html- make navbar and upload logo,  ul- class home, about us etc
+make style.css file in css folder and connect through link stylesheet with html
+now design navbar using flexbox, design logo , now design list items using flexbox
+work on background before pseudo and design for hover
+
+section-htmland button and design this
+make service section and design
+
+client section
+contact section
+footer 
+responsive- make phone.css and link this
+and perform changes with inspection
+scroll behavior and clicking
